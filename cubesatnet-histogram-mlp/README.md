@@ -20,7 +20,7 @@ cubesatnet-histogram-mlp/
 ## Installation
 
 ```bash
-git clone https://github.com/<username>/cubesatnet-histogram-mlp.git
+git clone https://github.com/albuca09/cubesatproject.git
 cd cubesatnet-histogram-mlp
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
